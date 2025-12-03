@@ -12,10 +12,12 @@ I'm still early in my journey, but I'm genuinely excited about developing consis
 
 I’m currently in an 8-Day Python Hireability Sprint, building one project per day to strengthen my foundations through hands-on practice.
 
-Completed:
+### Completed:
+- **Day 1: Text Analyzer CLI**  
+  👉 [View Project](https://github.com/SunshineKeyboard/day-one-text-analyzer-cli)
+- **Day 2: File Organizer Automation Tool**  
+  👉 [View Project](https://github.com/SunshineKeyboard/day-two-file-organizer)
 
-Day 1: Text Analyzer CLI
-👉 View Project
 
 In Progress:
 
