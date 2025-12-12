@@ -19,6 +19,11 @@ I’m currently in an 8-Day Python Hireability Sprint, building one project per 
   👉 [View Project](https://github.com/SunshineKeyboard/day-two-file-organizer)
 - **Day 3: Password Generator & Strength Checker**  
   👉 [View Project](https://github.com/SunshineKeyboard/day-three-password-tool)
+- **Day 4: Weather Dashboard (API + JSON)**  
+  👉 [View Project](https://github.com/SunshineKeys/day-four-weather-dashboard)
+  - **Day 5: Expense Tracker & CSV Report Generator**  
+  👉 [View Project](https://github.com/SunshineKeys/day-five-expense-tracker)
+
 
 
 In Progress:
