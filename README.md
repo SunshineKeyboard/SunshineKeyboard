@@ -1,61 +1,90 @@
-🌞 Hi, I'm Sunshine — Learning Python with a Technician’s Eye and a Service Heart
+Absolutely — here’s a clean, copy-and-paste–ready version of the tailored profile section, with no extra commentary or formatting outside the content itself:
 
-I'm transitioning into Python development after years spent in roles where focus, communication, and reliability really mattered.
+---
 
-I worked 7+ years as a Pharmacy Technician, which taught me to be detail-oriented, follow structured workflows, stay organized, and maintain accuracy even when things get busy. I also spent time in service industry and retail, where I learned how to adapt quickly, support others, and stay steady under pressure.
+🌞 **Hi, I’m Sunshine — Transitioning Into Remote Tech & Dev-Adjacent Work with a Technician’s Eye and a Service-Driven Work Ethic**
 
-All of those experiences are shaping how I approach coding — with patience, care, curiosity, and a commitment to learning things the right way.
+I’m moving into remote tech and dev-adjacent roles after years in positions where accuracy, communication, and reliability really mattered.
 
-I'm still early in my journey, but I'm genuinely excited about developing consistent, dependable skills in Python and building tools that actually help people.
+I spent 7+ years as a **Pharmacy Technician**, where I followed structured workflows, maintained precision in busy environments, and supported both teams and customers with care and consistency. My service and retail experience strengthened my adaptability, calm problem-solving style, and ability to stay steady under pressure.
 
-🚀 What I’m Working On
+Those experiences shape how I approach technical work today — with patience, curiosity, attention to detail, and a commitment to doing things the right way.
 
-I’m currently in an 8-Day Python Hireability Sprint, building one project per day to strengthen my foundations through hands-on practice.
+I’m still early in my Python journey, but I’m building practical skills that support real-world workflows, documentation, automation, and day-to-day technical operations.
 
-### Completed:
-- **Day 1: Text Analyzer CLI**  
-  👉 [View Project](https://github.com/SunshineKeyboard/day-one-text-analyzer-cli)
-- **Day 2: File Organizer Automation Tool**  
-  👉 [View Project](https://github.com/SunshineKeyboard/day-two-file-organizer)
-- **Day 3: Password Generator & Strength Checker**  
-  👉 [View Project](https://github.com/SunshineKeyboard/day-three-password-tool)
-- **Day 4: Weather Dashboard (API + JSON)**  
-  👉 [View Project](https://github.com/SunshineKeys/day-four-weather-dashboard)
-- **Day 5: Expense Tracker & CSV Report Generator**  
-  👉 [View Project](https://github.com/SunshineKeys/day-five-expense-tracker)
+---
 
+🚀 **Projects & Learning Focus**
 
+I’m currently working through an **8-Day Python Hireability Sprint**, building one project per day to develop structured thinking, problem-solving, and workflow automation foundations.
 
-In Progress:
+Completed so far:
 
-More small automation tools, organizers, and real-world beginner projects coming soon.
+* **Day 1 — Text Analyzer CLI** — 👉 View Project
+* **Day 2 — File Organizer Automation Tool** — 👉 View Project
+* **Day 3 — Password Generator & Strength Checker** — 👉 View Project
+* **Day 4 — Weather Dashboard (API + JSON)** — 👉 View Project
+* **Day 5 — Expense Tracker & CSV Report Generator** — 👉 View Project
 
-🧠 Skills I’m Building
+More sprint projects — along with additional small organizers and automation utilities — are currently in progress.
 
-Python basics & clean code
+My goal is to build simple, useful tools that support real-world tasks and technical operations.
 
-File handling and text processing
+---
 
-Command-line tools
+🧠 **Strengths I Bring to Tech & Support Roles**
 
-Git & GitHub
+* Strong attention to detail & accuracy from pharmacy / workflow environments
+* Calm, steady problem-solving — especially under pressure
+* Clear communication & customer-support mindset
+* Reliability, consistency, and follow-through
+* Comfort working independently in structured systems
+* Documentation-first thinking & process awareness
 
-Debugging and problem-solving
+I value environments where quality, consistency, and thoughtful work matter.
 
-Workflow thinking & structure
+---
 
-Early automation concepts
+🧰 **Technical Skills I’m Actively Building**
 
-I like understanding why something works, not just how to write it — and I’m building that understanding one project at a time.
+* Python fundamentals & clean, readable code
+* File handling, CSV processing & text utilities
+* Command-line tools & structured scripting
+* API requests & JSON data handling
+* Debugging and step-by-step troubleshooting
+* Git & GitHub workflow practices
+* Early automation & efficiency-focused thinking
 
-🌱 Why I’m Moving Into Tech
+I like understanding *why* something works — not just how to run it — and I’m developing that understanding one project at a time.
 
-After working in service roles and pharmacy environments, I realized I wanted a path where my natural attention to detail, steady work style, and love of learning could grow into something long-term.
+---
 
-Remote development allows me to stay consistent, focus deeply, and keep improving every day. I’ve set up a home workspace and I’m dedicated to building my portfolio, my skills, and — eventually — my career in Python development.
+🌍 **Remote Work Readiness**
 
-🤝 Nice to Meet You
+* Dedicated home workspace & focused daily schedule
+* Comfortable working independently and asynchronously
+* Experience following structured SOPs & workflow systems
+* Strong written communication and documentation habits
 
-I’m always open to connecting, learning from others, and sharing this journey with people who enjoy building things or improving themselves one step at a time.
+I’m especially interested in roles such as:
 
-Thanks for visiting — more projects soon. 🌱💛
+* entry-level technical support / helpdesk
+* operations or tooling support
+* junior dev-adjacent roles
+* QA / testing assistance
+* data entry & workflow support
+* automation-support / process-focused roles
+
+I’m looking for opportunities where I can be dependable, helpful, and continuously learning while supporting teams and technical work.
+
+---
+
+🤝 **Let’s Connect**
+
+I’m always open to connecting with developers, support teams, mentors, and others who value patience, consistency, and purpose-driven work.
+
+Thanks for visiting — more projects coming soon. 🌱💛
+
+---
+
+If you want, I can also help you swap in the real “View Project” links — just tell me which repos match which days and I’ll format them neatly for GitHub.
