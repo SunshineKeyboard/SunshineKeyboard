@@ -1,42 +1,59 @@
 # 🌞 Hi, I’m Sunshine
 
-I build practical Python projects with a focus on clarity, functionality, and real-world problem solving. My work emphasizes clean logic, readable code, and consistent iteration through hands-on development.
+I build practical Python projects with a focus on clean logic, clarity, and real-world usability. My work emphasizes readable code, structured problem-solving, and shipping functional tools — not just exercises.
 
-I’m comfortable working in the command line, using Git and GitHub for version control, and breaking problems down into manageable, testable steps. I learn best by building, refining, and shipping projects.
+I’m comfortable working in the command line, using Git and GitHub for version control, and breaking problems down into manageable, testable steps. I learn by building, refining, and improving projects end-to-end.
 
 ---
 
 ## 🧰 Technical Skills
-- **Languages:** Python
+- **Language:** Python
 - **Tools:** Git, GitHub, Command Line
 - **Core Concepts:**  
-  Functions, conditionals, loops, lists, dictionaries, file handling, debugging, CLI workflows
+  Functions, conditionals, loops, lists, dictionaries, file handling, JSON & CSV data, debugging
 - **Practices:**  
-  Incremental development, code readability, logical problem-solving
+  Incremental development, code readability, structured program flow
 
 ---
 
-## 📂 Projects
-My portfolio includes **6 polished Python projects**, each focused on reinforcing fundamentals through real usage:
+## 📂 Featured Projects
 
-- Command-line applications
-- Menu-driven programs
-- Data handling and state management
-- User input validation
-- Structured program flow
+Each project below is a complete, working Python application designed to reinforce real technical workflows:
 
-Repository links are available below 👇
+- **Day 1 — Text Analyzer CLI**  
+  🔗 https://github.com/SunshineKeys/Day-1-Text-Analyzer  
+  *Command-line tool for analyzing user-provided text and extracting useful insights.*
+
+- **Day 2 — File Organizer Automation Tool**  
+  🔗 https://github.com/SunshineKeys/Day-2-File-Organizer  
+  *Automates file organization using Python and filesystem operations.*
+
+- **Day 3 — Password Generator & Strength Checker**  
+  🔗 https://github.com/SunshineKeys/Day-3-Password-Generator  
+  *Generates secure passwords and evaluates strength based on defined rules.*
+
+- **Day 4 — Weather Dashboard (API + JSON)**  
+  🔗 https://github.com/SunshineKeys/Day-4-Weather-Dashboard  
+  *Fetches live weather data using an API and processes JSON responses.*
+
+- **Day 5 — Expense Tracker & CSV Report Generator**  
+  🔗 https://github.com/SunshineKeys/Day-5-Expense-Tracker  
+  *Tracks expenses and exports structured CSV reports.*
+
+- **Day 6 — Task Manager CLI (JSON Persistence)**  
+  🔗 https://github.com/SunshineKeys/Day-6-Task-Manager  
+  *Menu-driven task manager with persistent data storage using JSON.*
 
 ---
 
 ## 🔧 What I’m Focused On
-- Writing clean, maintainable Python
-- Improving program structure and organization
-- Strengthening Git/GitHub workflows
+- Writing clean, maintainable Python code
+- Strengthening program structure and data handling
+- Improving Git/GitHub workflows
 - Preparing for entry-level and dev-adjacent technical roles
 
 ---
 
 ## 🤝 Let’s Connect
-I’m open to opportunities, feedback, and collaboration.
+I’m open to opportunities, feedback, and collaboration.  
 Thanks for checking out my work.
