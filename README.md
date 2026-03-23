@@ -94,6 +94,15 @@ I'm especially interested in PBM companies, health insurers, and managed care or
 I'm always happy to talk with people in healthcare analytics, pharmacy operations, or anyone who values bringing real-world experience to data work.
 
 📧 meganmerrigan89@gmail.com
+
+
 💼 [LinkedIn](https://www.linkedin.com/in/megan-merrigan-a824a1265)
 
-Thanks for stopping by. More projects incoming. 🌻
+
+🗺️#SideQuestedIntoACareer
+
+
+Thanks for stopping by. 
+
+
+More projects incoming. 🌻
