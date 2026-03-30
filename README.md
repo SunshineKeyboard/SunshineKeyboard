@@ -29,10 +29,12 @@ Full end-to-end healthcare data pipeline — SQL, Pandas, risk stratification, a
   Tracks job applications and generates insights on success rates, location trends, and follow-up recommendations.
   👉 [github.com/SunshineKeys/job-application-analyzer](https://github.com/SunshineKeys/job-application-analyzer)
 
-### 🔜 Coming Soon
+### 📈 Power BI Dashboards
 
-* **Power BI Healthcare Dashboard**
-  Interactive dashboard visualizing pharmacy claims data — cost trends by therapeutic category, denial rates, high-cost patient identification, and formulary tier analysis.
+* **Healthcare FWA Detection Dashboard**
+  Interactive fraud, waste & abuse detection dashboard — denial rates by drug, high-cost patient identification, cost by therapeutic category, and conditional risk formatting.
+  👉 [github.com/SunshineKeys/Healthcare-FWA-Dashboard](https://github.com/SunshineKeys/Healthcare-FWA-Dashboard)
+
 
 ---
 
@@ -76,7 +78,7 @@ That operational knowledge is the foundation. The Python, SQL, and Pandas are ho
 * **Languages:** Python, SQL
 * **Data:** Pandas, CSV/Excel processing, SQLite, data cleaning & transformation
 * **Tools:** VS Code, PyCharm, Git/GitHub, Microsoft Excel (pivot tables, VLOOKUP, complex formulas)
-* **Learning:** Power BI, Tableau, healthcare data visualization
+* **Visualization:** Power BI (DAX, interactive dashboards), Tableau (in progress)
 * **Concepts:** ETL pipelines, claims data analysis, financial reporting, process automation
 
 ---
