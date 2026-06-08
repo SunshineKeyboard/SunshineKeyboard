@@ -1,40 +1,50 @@
 ## 🌞 Hey, I'm Sunshine.
 
-**Former Pharmacy Technician turned Healthcare Data Analyst** — with 6 years of hands-on pharmacy operations experience and a growing toolkit in Python, Pandas, and SQL.
+**Former Pharmacy Technician turned Healthcare Data Analyst** — with 6 years of hands-on pharmacy operations experience and a growing toolkit in Python, Pandas, SQL, and the Anthropic Claude API.
 
 I spent years on the ground floor of healthcare — processing Medicare, Medicaid, and commercial claims, handling workers' comp and DME billing, managing prior authorizations, and reconciling pharmaceutical rebates at **Change Healthcare** for Iowa Medicaid. I know what pharmacy claims data looks like from the inside because I've lived in it.
 
-Now I'm building the technical skills to analyze that data at scale. I write Python scripts that automate what I used to do by hand, and I'm working toward roles where my pharmacy operations knowledge meets real data analysis — because someone who understands both the data AND the workflow it came from is hard to find.
+Now I'm building the technical skills to analyze that data at scale — and lately, to automate the analysis entirely. I write Python that does what I used to do by hand, and I build AI agents that can reason through claims data the way a trained analyst would. Someone who understands both the data AND the workflow it came from is hard to find.
+
+---
+
+## 🤖 Featured Project: Healthcare Claims Anomaly Agent ⭐ NEW
+
+An AI agent built on the Anthropic Claude API that autonomously analyzes Medicare Part D claims data for fraud, waste, and abuse — no human in the loop between steps. The agent loads the data, decides which detection tools to run (and on a recent run, figured out on its own that all five tools were independent and executed them in parallel), interprets the findings, cross-validates results across methods, and writes a structured investigation report with a prioritized compliance queue.
+
+On a 57,763-row dataset it flagged 243 records across five fraud typologies — including prescribers writing controlled substances at 17 standard deviations above their specialty peers, and a Humira billing line at 40x the drug's median cost-per-claim totaling $3.3M.
+
+**Stack:** Python · Anthropic Claude API · DuckDB · pandas  
+👉 [github.com/SunshineKeys/Anomalous-Claims-Agent](https://github.com/SunshineKeys/Anomalous-Claims-Agent)
 
 ---
 
 ## 🏥 Featured Project: Pharmacy Claims Analysis Pipeline
 
-Full end-to-end healthcare data pipeline — SQL, Pandas, risk stratification, and audit-ready reports built on a synthetic Medicaid claims dataset.
+Full end-to-end healthcare data pipeline — SQL, Pandas, risk stratification, and audit-ready reports built on a synthetic Medicaid claims dataset.  
 👉 [github.com/SunshineKeys/Pharmacy-Claims-Pipeline](https://github.com/SunshineKeys/Pharmacy-Claims-Pipeline)
 
 ---
 
 ## 📊 Data Analyst Projects
 
-* **Sales Visual Report (Capstone)**
-  Complete visual analysis with 5 professional charts, written insights, and strategic recommendations.
+* **Sales Visual Report (Capstone)**  
+  Complete visual analysis with 5 professional charts, written insights, and strategic recommendations.  
   👉 [github.com/SunshineKeys/sales-visual-report](https://github.com/SunshineKeys/sales-visual-report)
 
-* **Sales Performance Analyzer**
-  Executive-level sales analysis with pivot tables, KPIs, performance metrics, and multi-format exports (CSV + TXT reports).
+* **Sales Performance Analyzer**  
+  Executive-level sales analysis with pivot tables, KPIs, performance metrics, and multi-format exports.  
   👉 [github.com/SunshineKeys/sales-performance-analyzer](https://github.com/SunshineKeys/sales-performance-analyzer)
 
-* **Job Application Analyzer**
-  Tracks job applications and generates insights on success rates, location trends, and follow-up recommendations.
+* **Job Application Analyzer**  
+  Tracks job applications and generates insights on success rates, location trends, and follow-up recommendations.  
   👉 [github.com/SunshineKeys/job-application-analyzer](https://github.com/SunshineKeys/job-application-analyzer)
 
 ### 📈 Power BI Dashboards
 
-* **Healthcare FWA Detection Dashboard**
-  Interactive fraud, waste & abuse detection dashboard — denial rates by drug, high-cost patient identification, cost by therapeutic category, and conditional risk formatting.
+* **Healthcare FWA Detection Dashboard**  
+  Interactive fraud, waste & abuse detection dashboard — denial rates by drug, high-cost patient identification, cost by therapeutic category, and conditional risk formatting.  
   👉 [github.com/SunshineKeys/Healthcare-FWA-Dashboard](https://github.com/SunshineKeys/Healthcare-FWA-Dashboard)
-
 
 ---
 
@@ -42,19 +52,19 @@ Full end-to-end healthcare data pipeline — SQL, Pandas, risk stratification, a
 
 Built during an 8-day sprint to strengthen scripting fundamentals and automation skills.
 
-* **Text Analyzer CLI** — Word frequency, character counts, readability scoring.
+* **Text Analyzer CLI** — Word frequency, character counts, readability scoring.  
   👉 [github.com/SunshineKeys/day-one-text-analyzer-cli](https://github.com/SunshineKeys/day-one-text-analyzer-cli)
 
-* **File Organizer** — Automated file sorting by extension with logging and undo.
+* **File Organizer** — Automated file sorting by extension with logging and undo.  
   👉 [github.com/SunshineKeys/day-two-file-organizer](https://github.com/SunshineKeys/day-two-file-organizer)
 
-* **Password Generator & Strength Checker** — Secure generation with entropy scoring.
+* **Password Generator & Strength Checker** — Secure generation with entropy scoring.  
   👉 [github.com/SunshineKeys/day-three-password-tool](https://github.com/SunshineKeys/day-three-password-tool)
 
-* **Weather Dashboard** — Live weather data from a public API.
+* **Weather Dashboard** — Live weather data from a public API.  
   👉 [github.com/SunshineKeys/day-four-weather-dashboard](https://github.com/SunshineKeys/day-four-weather-dashboard)
 
-* **Expense Tracker & CSV Report Generator** — Persistent storage, filtering, and summaries.
+* **Expense Tracker & CSV Report Generator** — Persistent storage, filtering, and summaries.  
   👉 [github.com/SunshineKeys/day-five-expense-tracker](https://github.com/SunshineKeys/day-five-expense-tracker)
 
 ---
@@ -69,17 +79,18 @@ I'm not a fresh grad learning healthcare from a textbook. I've got years of expe
 * **Billing & coding** — ICD-10, CPT, HCPCS, NDC, fee schedules, claims adjudication
 * **Team leadership** — consistently trained new techs, interns, and managers; turned a failing retail location into top 5 in the district within 2 months
 
-That operational knowledge is the foundation. The Python, SQL, and Pandas are how I'm leveling it up.
+That operational knowledge is the foundation. The Python, SQL, AI agents, and everything else are how I'm leveling it up.
 
 ---
 
 ## 🧰 Technical Skills
 
 * **Languages:** Python, SQL
-* **Data:** Pandas, CSV/Excel processing, SQLite, data cleaning & transformation
+* **Data:** Pandas, DuckDB, CSV/Excel processing, SQLite, data cleaning & transformation
+* **AI/Agents:** Anthropic Claude API, agentic tool-use architecture, LLM-powered workflows
 * **Tools:** VS Code, PyCharm, Git/GitHub, Microsoft Excel (pivot tables, VLOOKUP, complex formulas)
 * **Visualization:** Power BI (DAX, interactive dashboards), Tableau (in progress)
-* **Concepts:** ETL pipelines, claims data analysis, financial reporting, process automation
+* **Concepts:** ETL pipelines, FWA detection, claims data analysis, financial reporting, process automation
 
 ---
 
@@ -95,16 +106,8 @@ I'm especially interested in PBM companies, health insurers, and managed care or
 
 I'm always happy to talk with people in healthcare analytics, pharmacy operations, or anyone who values bringing real-world experience to data work.
 
-📧 meganmerrigan89@gmail.com
+📧 meganmerrigan89@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/megan-merrigan-a824a1265)  
+🗺️ #SideQuestedIntoACareer
 
-
-💼 [LinkedIn](https://www.linkedin.com/in/megan-merrigan-a824a1265)
-
-
-🗺️#SideQuestedIntoACareer
-
-
-Thanks for stopping by. 
-
-
-More projects incoming. 🌻
+Thanks for stopping by. More projects incoming. 🌻
